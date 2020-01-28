@@ -1,4 +1,4 @@
-# git-readme
+# gif-readme
 
 gif upload demo.
 
